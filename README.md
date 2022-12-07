@@ -9,4 +9,16 @@ It now contains technics for
 
 --spectral form factor, 
 
---growth rate and so on
+--growth rate 
+
+-- JT Gravity
+
+--JT spectral form factor
+
+--JT partition function
+
+-- AdS2/CFT1
+
+-- Quantum chaos
+
+and so on
